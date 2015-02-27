@@ -1,7 +1,7 @@
 include_recipe 'chef_handler'
 
 chef_gem 'chef-teapot' do
-  source '/tmp/kitchen/data/chef-teapot-0.1.0.gem'
+  source '/tmp/kitchen/data/chef-teapot-0.1.1.gem'
 end
 
 
